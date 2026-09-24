@@ -1,0 +1,6 @@
+{
+  "name": "LUMENIQ Smart Home & Systems Integration",
+  "description": "Architectural smart home system integration, low-voltage infrastructure, security, and lighting design for luxury residences and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

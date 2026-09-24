@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#111315" />
+  <defs>
+    <linearGradient id="favYellow" x1="56" y1="40" x2="68" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#EAB308" />
+      <stop offset="100%" stopColor="#FACC15" />
+    </linearGradient>
+  </defs>
+  <!-- K left pillar -->
+  <path d="M16 26 H30 V74 H16 Z" fill="none" stroke="#9DE600" stroke-width="6" stroke-linejoin="miter" />
+  <!-- K upper arm -->
+  <path d="M28 48 L48 26" stroke="#9DE600" stroke-width="6.5" stroke-linecap="square" />
+  <!-- K lower arm to L baseline -->
+  <path d="M28 50 L48 72 H74" stroke="#9DE600" stroke-width="6.5" stroke-linecap="square" stroke-linejoin="miter" />
+  <!-- M left stem -->
+  <path d="M50 30 V72" stroke="#9DE600" stroke-width="6" stroke-linecap="square" />
+  <!-- M yellow chevron -->
+  <path d="M56 32 L64 44 L72 32" fill="none" stroke="url(#favYellow)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="miter" />
+  <!-- M outer arrow stem -->
+  <path d="M52 30 L64 54 L80 26" fill="none" stroke="#9DE600" stroke-width="6" stroke-linejoin="miter" stroke-linecap="square" />
+  <!-- Arrow Head -->
+  <polygon points="86,16 74,20 78,25 68,33 73,38 84,30 89,35" fill="#9DE600" />
+  <!-- M right pillar -->
+  <path d="M78 38 V74" stroke="#9DE600" stroke-width="6" stroke-linecap="square" />
+</svg>
